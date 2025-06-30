@@ -30,10 +30,7 @@
   <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/floridajetsk1/" target="_blank">
-  <img align="center" alt="Luis Urrego | Instagram" width="24px" src="https://www.instagram.com/floridajetsk1/profilecard/?igsh=djZmZzA4ZmNlaTIx" />
-</a> &nbsp;&nbsp;
-<a href="mailto:sstamoulis.wd@gmail.com" >
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Luis Urrego | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
