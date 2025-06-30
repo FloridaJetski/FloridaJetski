@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Luis</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/LuisUvE/LuisUvE/blob/main/lusivegif.gif"/></a>
+<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/LuisUvE/LuisUvE/blob/main/luisuvegif.gif"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
