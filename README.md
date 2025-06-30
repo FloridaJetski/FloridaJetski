@@ -10,7 +10,7 @@
 
 <pre>
 💻 Estoy fortaleciendo mis habilidades como desarrollador web full stack | Apasionado por la tecnología y la automatización
-📚 Estudiante de último semestre de Tecnología en Sistemas de Información, próximo a graduarme como Tecnólogo
+📚 Tecnologo en Sistemas de Información, próximo a graduarme como Tecnólogo
 📝 Interesado en crear aplicaciones web intuitivas y optimizar procesos con automatización
 🔭 Desarrollo proyectos con React, JavaScript, PHP y Laravel, además de integrar bases de datos relacionales
 🌱 Enfocado en entender las necesidades del usuario y construir soluciones que faciliten su trabajo
