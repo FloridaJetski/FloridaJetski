@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Stefanos</h1>
+<h1 align="center"> Hi there 👋, I'm Luis</h1>
 
 <a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
 
@@ -9,13 +9,13 @@
 </p>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+💻 Estoy fortaleciendo mis habilidades como desarrollador web full stack | Apasionado por la tecnología y la automatización
+📚 Estudiante de último semestre de Tecnología en Sistemas de Información, próximo a graduarme como Tecnólogo
+📝 Interesado en crear aplicaciones web intuitivas y optimizar procesos con automatización
+🔭 Desarrollo proyectos con React, JavaScript, PHP y Laravel, además de integrar bases de datos relacionales
+🌱 Enfocado en entender las necesidades del usuario y construir soluciones que faciliten su trabajo
+🌟 Lenguajes y herramientas principales: JavaScript, PHP, Python, PowerShell, SQL
+🚩 Interesado en combinar desarrollo web con automatización de tareas y administración de infraestructura IT
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -43,5 +43,4 @@
 
 ---
 
-[StefanosSt](https://github.com/StefanosSt)
 Last Edited on : 13/08/2023
