@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/LuisUvE">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;React+%7C+PHP+%7C+Java+%7C++CSS+%7C+Swing;DL+%7C+AI+%7C+ML+Enthussiast;Always+developing+my+skills)](https://git.io/typing-svg)">
 	</a>
 </p>
 
