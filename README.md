@@ -14,7 +14,7 @@
 📝 Interesado en crear aplicaciones web intuitivas y optimizar procesos con automatización
 🔭 Desarrollo proyectos con React, JavaScript, PHP y Laravel, además de integrar bases de datos relacionales
 🌱 Enfocado en entender las necesidades del usuario y construir soluciones que faciliten su trabajo
-🌟 Lenguajes y herramientas principales: JavaScript, PHP, Python, PowerShell, SQL
+🌟 Lenguajes y herramientas principales: JavaScript, PHP, Python, React, SQL, CSS, JAVA
 🚩 Interesado en combinar desarrollo web con automatización de tareas y administración de infraestructura IT
 </pre>
 
