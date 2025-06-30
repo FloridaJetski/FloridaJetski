@@ -34,7 +34,7 @@
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
-  <img src="https://github.com/FloridaJetski/FloridaJetski/blob/main/githubuser" alt="snake">
+  <img src="https://github.com/FloridaJetski/FloridaJetski/blob/main/githubuser.svg" alt="snake">
 </p>
 
 
