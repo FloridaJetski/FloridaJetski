@@ -26,10 +26,10 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/luis-urrego/" target="_blank">
+<a href="https://www.linkedin.com/in/luis-urrego/" target="blank">
   <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/floridajetsk1/" target="_blank">
+<a href="https://www.instagram.com/floridajetsk1/" target="blank">
   <img align="center" alt="Luis Urrego | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/>
 </a> &nbsp;&nbsp;
 <p>
