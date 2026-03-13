@@ -9,13 +9,13 @@
 </p>
 
 <pre>
-💻 Estoy fortaleciendo mis habilidades como desarrollador web full stack | Apasionado por la tecnología y la automatización
-📚 Tecnologo en Sistemas de Información
-📝 Crear aplicaciones web intuitivas y optimizar procesos con automatización
-🔭 Desarrollo proyectos con React, JavaScript, Tailwind, Next.JS, PHP y Laravel, además de integrar bases de datos relacionales
-🌱 Enfocado en entender las necesidades del usuario y construir soluciones que faciliten su trabajo
-🌟 Lenguajes y herramientas principales: JavaScript, PHP, Python, React, SQL, CSS, JAVA
-🚩 Interesado en combinar desarrollo web con automatización de tareas y administración de infraestructura IT
+🛠 Experiencia desarrollando y manteniendo aplicaciones en C# / .NET, creando API REST, integraciones entre sistemas y resolviendo incidencias en entornos productivos
+🔄 He trabajado en migraciones y gestión de bases de datos, construcción de estructuras JSON para intercambio de información y automatización de procesos mediante scripts y macros
+🤖 Desarrollo de agentes de inteligencia artificial con Foundry para automatizar procesos de soporte y mejorar la atención a clientes
+💳 Soporte técnico y desarrollo de soluciones para plataformas utilizadas en gestión de cartera, pagos y operaciones financieras
+⚙ Experiencia en automatización, backend engineering, integraciones entre sistemas y soluciones basadas en IA
+🌟 Tecnologías y herramientas principales:
+C#, .NET, SQL, REST APIs, JSON, JavaScript, Python, React, PHP, Laravel, Tailwind, Git
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
